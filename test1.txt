@@ -1,6 +1,6 @@
 buildVersion=0.2.7b
 testVersion=0.2.7t
-buildService_x=True
+buildService_x=False
 testService_x=False
 discordRPC.largeImageKey=large_img
 discordRPC.largeImageText=test \xF0\x9F\x98\x82
