@@ -4,5 +4,5 @@ buildService_x=True
 testService_x=False
 discordRPC.largeImageKey=large_img
 discordRPC.largeImageText=test \xF0\x9F\x98\x82
-discordRPC.details=yeah!
+discordRPC.details=123
 discordRPC.state=456
