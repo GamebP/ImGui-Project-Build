@@ -1,8 +1,8 @@
-buildVersion=0.2.9b
-testVersion=0.2.9t
+buildVersion=0.3.0b
+testVersion=0.3.0t
 buildService_x=True
 testService_x=False
 discordRPC.largeImageKey=large_img
-discordRPC.largeImageText=test \xF0\x9F\x98\x82
-discordRPC.details=123
-discordRPC.state=456
+discordRPC.largeImageText=This is funny \xF0\x9F\x98\x82
+discordRPC.details=Could be better!
+discordRPC.state=@skydash.
