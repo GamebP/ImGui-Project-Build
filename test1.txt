@@ -1,5 +1,5 @@
-buildVersion=0.3.0b
-testVersion=0.3.0t
+buildVersion=0.3.1b
+testVersion=0.3.1t
 buildService_x=True
 testService_x=False
 discordRPC.largeImageKey=large_img
