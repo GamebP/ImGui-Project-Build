@@ -1,4 +1,4 @@
-full_name_of_exe=%name
+full_name_of_exe=%s
 buildVersion=0.3.1b
 testVersion=0.3.1t
 buildService_x=True
