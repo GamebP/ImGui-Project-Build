@@ -1,4 +1,4 @@
-full_name_of_exe=Generator.exe
+FullNameEXE=Generator.exe
 buildVersion=0.3.1b
 testVersion=0.3.1t
 buildService_x=True
