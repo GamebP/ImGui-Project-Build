@@ -1,6 +1,6 @@
 FullNameEXE=Generator.exe
-buildVersion=0.3.2b
-testVersion=0.3.2t
+buildVersion=0.3.3b
+testVersion=0.3.3t
 buildService_x=True
 testService_x=False
 discordRPC.largeImageKey=large_img
