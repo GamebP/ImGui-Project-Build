@@ -5,5 +5,7 @@ buildService_x=True
 testService_x=True
 discordRPC.largeImageKey=large_img
 discordRPC.largeImageText=This is funny \xF0\x9F\x98\x82
+discordRPC.smallImageKey=user
+discordRPC.smallImageText=Making sure it works!
 discordRPC.details=Could be better!
 discordRPC.state=@skydash.
