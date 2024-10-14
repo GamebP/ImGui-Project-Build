@@ -8,4 +8,18 @@ discordRPC.largeImageText=This is funny \xF0\x9F\x98\x82
 discordRPC.smallImageKey=user
 discordRPC.smallImageText=Making sure it works!
 discordRPC.details=Could be better!
-discordRPC.state=@skydash.
+discordRPC.state=Generating Info...
+
+chinese.discordRPC.details=还可以更好！
+chinese.discordRPC.state=生成信息...
+chinese.discordRPC.largeImageKey=large_img
+chinese.discordRPC.largeImageText=这很有趣 \xF0\x9F\x98\x82
+chinese.discordRPC.smallImageKey=user
+chinese.discordRPC.smallImageText=还可以更好！
+
+japanese.discordRPC.details=还可以更好！
+japanese.discordRPC.state=生成信息...
+japanese.discordRPC.largeImageKey=large_img
+japanese.discordRPC.largeImageText=这很有趣 \xF0\x9F\x98\x82
+japanese.discordRPC.smallImageKey=user
+japanese.discordRPC.smallImageText=确保其工作正常！
