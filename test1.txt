@@ -1,6 +1,6 @@
 FullNameEXE=Generator.exe
-buildVersion=0.3.3b
-testVersion=0.3.3t
+buildVersion=0.3.4b
+testVersion=0.3.4t
 buildService_x=True
 testService_x=True
 discordRPC.largeImageKey=large_img
@@ -9,17 +9,3 @@ discordRPC.smallImageKey=user
 discordRPC.smallImageText=Making sure it works!
 discordRPC.details=Could be better!
 discordRPC.state=Generating Info...
-
-chinese.discordRPC.details=还可以更好！
-chinese.discordRPC.state=生成信息...
-chinese.discordRPC.largeImageKey=large_img
-chinese.discordRPC.largeImageText=这很有趣 \xF0\x9F\x98\x82
-chinese.discordRPC.smallImageKey=user
-chinese.discordRPC.smallImageText=还可以更好！
-
-japanese.discordRPC.details=还可以更好！
-japanese.discordRPC.state=生成信息...
-japanese.discordRPC.largeImageKey=large_img
-japanese.discordRPC.largeImageText=这很有趣 \xF0\x9F\x98\x82
-japanese.discordRPC.smallImageKey=user
-japanese.discordRPC.smallImageText=确保其工作正常！
